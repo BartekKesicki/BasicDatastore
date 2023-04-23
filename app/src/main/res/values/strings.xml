@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicDatastore</string>
+    <string name="title">Basic Datastore</string>
+    <string name="key">key</string>
+    <string name="value">value</string>
+    <string name="value_doesnt_exist">value doesnt exist</string>
+</resources>
