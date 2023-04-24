@@ -9,4 +9,5 @@
     <string name="save">Save</string>
     <string name="read">Read</string>
     <string name="this_field_can_not_be_empty">This field can not be empty</string>
+    <string name="data_saved">Data saved</string>
 </resources>
